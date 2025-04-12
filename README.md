@@ -1,7 +1,5 @@
 # IRCTC Non-Veg Menu - SOPAN RESTAURANT
 
-## Page Content
-
 - *Current Date* (auto-updates daily)
 - *Today's Non-Veg Menu*:
   - Masala Omelette (2 Eggs)
